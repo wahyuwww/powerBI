@@ -50,7 +50,6 @@ function App() {
             window.report = embeddedReport;
           }}
         /> */}
-      <h1>holaa</h1>
         <iframe
           title="Task Power Bi"
           width="100%"
